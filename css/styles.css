@@ -574,6 +574,7 @@
  .contact-form {
      background: var(--bg-card);
      padding: 2rem;
+     margin-top: 3rem;
      border-radius: 20px;
      box-shadow: var(--shadow);
  }
